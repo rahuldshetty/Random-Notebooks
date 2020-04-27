@@ -6,4 +6,4 @@ This repository contains Jupyter Notebooks and saved model files which I created
 1) [Understanding Character Level RNN](https://github.com/rahuldshetty/Random-Notebooks/tree/master/Understanding%20Character%20Level%20RNN)
 
 ## Images
-1) [Simple GAN for MNIST dataset]()
+1) [Simple GAN for MNIST dataset](https://github.com/rahuldshetty/Random-Notebooks/tree/master/Simple%20GAN%20for%20MNIST)
