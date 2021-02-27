@@ -1,0 +1,3 @@
+This notebook gives you an overview on how to use Tensorflow-Dataset library to load dataset. I have used Horses or Humans dataset which consits of different images of size (300,300,3). The notebook shows 2 different ways to load the dataset. The first method is by directly using tfds.load method where I load the training dataset. The second method involves directly reading the tfrecord files from the file system. I have used this method to load the validation dataset. 
+
+The model is a simple Convolutional Neural Network which performed classification. It is build with Keras.
